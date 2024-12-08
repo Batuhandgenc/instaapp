@@ -1,3 +1,32 @@
+.login-section {
+  margin-top: 20px;
+}
+
+.login-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px;
+  background-color: white;
+  color: black;
+  border: 1px solid #D9D9D9;
+  border-radius: 8px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.login-button img {
+  margin-right: 10px;
+}
+
+.login-button:hover {
+  background-color: #F5F5F5;
+}
+
+
+
 .login-section button {
   padding: 10px 20px;
   background-color: #008CBA;
@@ -9,7 +38,7 @@
   font-weight: 600;
   font-size: 15px;
 }
-  
+  /*
   .login-section input {
     margin-bottom: 10px;
     padding: 10px;

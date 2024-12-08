@@ -1,4 +1,15 @@
 .home-page {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: white;
+  text-align: center;
+}
+
+/* .home-page {
     background-color: black;
     display: flex;
     flex-direction: column;
@@ -7,4 +18,4 @@
     height: 100vh;
     color: white;
   }
-  
+  */
